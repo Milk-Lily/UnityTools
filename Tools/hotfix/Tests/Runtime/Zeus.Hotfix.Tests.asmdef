@@ -1,0 +1,18 @@
+{
+    "name": "Zeus.Hotfix.Tests",
+    "references": [
+        "Zeus.Hotfix",
+        "Zeus.Lua",
+        "Zeus.Core",
+        "Zeus.Asset",
+        "Zeus.Network"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
