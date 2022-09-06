@@ -1,0 +1,15 @@
+{
+    "name": "Zeus.Asset.Tests",
+    "references": [
+        "Zeus.Asset",
+        "Zeus.Core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
